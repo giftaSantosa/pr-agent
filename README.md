@@ -45,9 +45,3 @@ python3 path/to/pr-agent/pr-agent.py <PR number>
 ```
 
 The agent prints a draft comment and asks `Post? (y/n)`. Answer `y` to post it.
-
-## Roadmap
-
-- [ ] Search the repo for where functions are used
-- [ ] Comment on specific lines
-- [ ] Run automatically with GitHub Actions
