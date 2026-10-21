@@ -1,0 +1,13 @@
+diff --git a/checkout.py b/checkout.py
+index 1a2b3c4..5d6e7f8 100644
+--- a/checkout.py
++++ b/checkout.py
+@@ -1,4 +1,6 @@
+ from cart import total_price, apply_discount
+
+-def checkout(items):
+-    return round(total_price(items), 2)
++def checkout(items, code=None):
++    total = total_price(items)
++    total = apply_discount(total, code)
++    return round(total, 2)

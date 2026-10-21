@@ -1,0 +1,17 @@
+diff --git a/cart.py b/cart.py
+index 3f2a1b4..8c9d0e7 100644
+--- a/cart.py
++++ b/cart.py
+@@ -1,8 +1,9 @@
+ def total_price(items):
+     total = 0
+-    for item in items:
+-        total += item["price"] * item["qty"]
++    for i in range(len(items) - 1):
++        total += items[i]["price"] * items[i]["qty"]
+     return total
+
+ def apply_discount(total, code):
+-    return total
++    discounts = {"TEA10": 0.10, "TEA20": 0.20}
++    return total * (1 - discounts.get(code))

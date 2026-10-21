@@ -1,0 +1,44 @@
+SUMMARY
+Software Developer with 1.5 years of project & training experience building backend applications using Java (Spring Boot), Ruby (on Rails), MySQL & PostgreSQL. I recently graduated from Le Wagon Fullstack Web Development school, built and deployed Ruby on Rails applications with OAuth2, Solid queue, and data scraping, deployed on Heroku Cloud (https://www.jobeasy.space/).
+I previously worked as a recruiter/sales at an IT company, and I am currently looking for Backend Development roles to build enterprise-level products, and become a Forward Deployed Engineer in the future.
+LANGUAGE PROFICIENCY
+English (Fluent) | Japanese (Business, JLPT N2) | Indonesian (Native)
+TECHNICAL SKILLS
+Programming Languages Java (Spring Boot) | Python | Ruby (Ruby on Rails) | Javascript (Vanilla, Stimulus) | Testing Selenium | Pytest (Unit Testing) | Rspec (Unit & System Testing) | Postman (API Testing) | Other Claude Code | Spring Data JPA | Lombok | Maven | TensorFlow | Git | GitHub | Docker | Docker Compose | Websocket | Solid Queue | Devise | JWT Authentication | OAuth2 | Figma | Heroku | AWS (Certifi ed Cloud Practitioner CLF-02)
+TECHNICAL PROJECTS
+JobEasy – Job Web Application Tracker for Junior Developers | Ruby on Rails, Javascript, PostgreSQL, RubyLLM, OnlyOffi ce API, Heroku (https://www.jobeasy.space/)
+● Built a job aggregation and application tracking platform targeting junior developers in Japan, including background scraper jobs (Solid Queue) that ingest listings from Wantedly, CareerForum, and japan-dev via API integrations.
+● Integrated an LLM-powered "worth applying" verdict feature using structured schema output (RubyLLM), giving junior candidates guidance on job fi t.
+● Implemented an in-browser resume editor via a third-party service, OnlyOffi ce Docs Cloud. Build JWT-based authentication confi gurations, callback request URL and Turbo Streams for live UI updates.
+● Designed core data models (Users, Job Listings, Applications, Resumes) with Devise & OAuth authentication, Pundit authorization, and Active Storage/Cloudinary for fi le handling.
+DreamApp – AI-Powered Dream Journaling Mobile App | Ruby on Rails, Javascript, PostgreSQL, RubyLLM, Heroku (https://dream-app-lewagon-991343bdff0f.herokuapp.com/)
+● Built an AI-powered dream journaling app using RubyLLM to generate dream interpretations and corresponding AI-generated imagery.
+● Implemented asynchronous background processing (Solid Queue + worker dyno) to resolve Heroku H12 timeout and R14 memory errors from inline LLM/image calls.
+● Used Turbo Streams and Action Cable (Devise) for real-time UI updates, and Google OAuth2 for authentication.
+BankingApp – Account Management RestfulAPI | Java, Spring Boot, MySQL
+● Built CRUD operations for account creation, retrieval, deposits, withdrawals, and deletion.
+● Implemented Controllers, Services, Entities, and DTOs following clean architecture.
+● Integrated MySQL database using JPA; applied REST best practices and data modeling.
+AI for Testing Hackathon – Stripe Payment Integration Test Automation Dashboard | Python, Selenium, Pytest
+Role: QA Engineer (Black-box & White-box) - 1st Place (Team)
+● Performed Selenium UI testing on an e-commerce platform with Stripe integration.
+● Generated Pytest test cases and contributed to structured automation scripts.
+● Conducted AI-driven white-box test generation and error analysis.
+● Helped build an AI-assisted Test Analysis Dashboard transforming failures into actionable insights.
+PROFESSIONAL EXPERIENCE
+IT Recruiter (Tech: Java, QA, DevOps) | October 2023 - June 2026 TEKsystems (Allegis Group Japan) | Tokyo, Japan
+● Recruited 60+ Java, QA, and DevOps engineers, gaining deep understanding of backend development, SDLC, CI/CD practices, and testing workfl ows.
+● Collaborated with engineering teams to evaluate technical skills, understand system design requirements, and align hiring with product roadmap needs.
+● Assessed candidates on Java, Spring Boot, REST APIs, Selenium, and automation testing concepts—building strong technical foundations applied to current development work.
+● Improved hiring effi ciency by refi ning screening processes, reducing time-to-hire for technical roles.
+● Supported onboarding for engineers and contributed feedback on team structure, quality practices, and process improvements.
+ACHIEVEMENTS AND AWARDS
+AI for QA Testing Hackathon – 1st Place (2025) Participated in an industry hackathon focused on AI-driven testing. Contributed to Selenium UI tests, Pytest automation, AI-assisted white-box test generation, and a Test Analysis Dashboard delivering actionable insights for an e-commerce app with Stripe integration.
+Software Testing Conference – Tokyo Test Fest (2025) Awarded from winning Hackathon - Attended sessions with 300+ participants. Key insights:
+Nagoya University G30 – 4-Year Full Scholarship (2019–2023) Awarded a full academic scholarship covering tuition and living expenses for academic excellence.
+Top 4 – Bloomberg ESG Investment Competition (2022) Ranked Top 4 nationwide (61 teams, 324 participants) for building an ESG-focused U.S. equity portfolio.
+Top 3 – Japan Business Case Competition (2021) Placed Top 3 nationally by developing strategic solutions for a semiconductor industry case.
+EDUCATION
+Le Wagon Fullstack Web Development Bootcamp (2026/7 - 2026/9)
+Completed an intensive fullstack web development bootcamp covering Ruby on Rails, PostgreSQL, JavaScript, OAuth2, and WebSockets, culminating in a fi nal project demo (JobEasy: an AI-powered job aggregation and application tracking platform for junior developers in Japan).
+Bachelor of Economics | Nagoya University (2019–2023) Conducted empirical thesis research on the Impact of External Public Debt on Economic Growth using Python for data cleaning, regression analysis, and statistical modeling. Relevant coursework: Financial Management, International Accounting, Econometrics, Machine Learning, Probability & Statistics, and Quantitative Methods.
