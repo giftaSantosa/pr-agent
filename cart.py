@@ -7,3 +7,8 @@ def total_price(items):
 def apply_discount(total, code):
     discounts = {"TEA10": 0.10, "TEA20": 0.20}
     return total * (1 - discounts.get(code))
+
+def shipping_fee(total):
+    if total > 50:
+        return 0
+    return 5
